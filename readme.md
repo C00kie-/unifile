@@ -32,6 +32,7 @@ With node installed ([download](http://nodejs.org/download)), install unifile in
     $ npm install unifile
 
 Then write a small node.js server like this and name it ```server.js```
+or use ./Procfile as an example 
 
     // node modules
     var unifile = require('unifile');
